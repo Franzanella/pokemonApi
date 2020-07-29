@@ -1,0 +1,16 @@
+.Navbar {
+    padding: 20px;
+    background: #ff0000;
+    color: white;
+
+}
+
+
+.Logo {
+    max-width: 168px;
+}
+@media (max-width: 800px) {
+    .Logo {
+    max-width: 105px;
+    }
+}
